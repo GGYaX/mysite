@@ -1,0 +1,81 @@
+body {
+	background: rgb(236, 236, 236);
+}
+
+#main_div {
+
+}
+
+/* Header */
+header {
+	/*display: inline-block;*/
+}
+
+.max_width {
+	width: 1024px;
+	margin: auto;
+}
+
+#header_border {
+	margin: auto;
+	height: 100px;
+	width: 1024px;
+	border: 1px solid;
+	border-radius: 5px 5px 5px 5px;
+	box-shadow: 0px 1px 5px #888888;
+	background: rgb(200, 200, 200);
+}
+
+#main_title {
+	display: inline-block;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+header h1 {
+	font-size: 3.0em;
+	font-weight: bold;
+	display: inline-block;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+.title_important {
+	color: green;
+	/*text-transform: uppercase;*/
+}
+
+/* Navigation */
+nav {
+	/*display: inline-block;*/
+	width: 1024px;
+	text-align: right;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: auto;
+}
+
+nav li {
+	display: inline-block;
+	margin-right: 15px;
+	border-left: 1px solid rgb(232, 233, 232);
+	border-right: 1px solid rgb(232, 233, 232);
+}
+
+nav ul li a {
+	font-size: 1.3em;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: green;
+	-webkit-transition: color 0.25s;
+	   -moz-transition: color 0.25s;
+	    -ms-transition: color 0.25s;
+	     -o-transition: color 0.25s;
+	        transition: color 0.25s;
+}
+
+nav ul li a:hover {
+	color: yellow;
+}
