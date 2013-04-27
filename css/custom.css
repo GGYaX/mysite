@@ -110,4 +110,13 @@ body {
   display: block;
 }
 
+/* row fluid */
+.row-fluid p {
+  margin: auto;
+  text-align: center;
+}
+.logoimage {
+  width: 50%;
+  height: 50%;
+}
 /* Timeline customize */
