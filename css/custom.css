@@ -86,3 +86,26 @@ body {
   border-right: 0;
   border-radius: 0 3px 3px 0;
 }
+
+.navbar .nav {
+  table-layout: fixed;
+}
+
+/* Blog disabled */
+.navbar .nav li.hoverable a span.hover {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  display: none;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+}
+.navbar .nav li.hoverable a:hover span.normal {
+  display: none;
+}
+.navbar .nav li.hoverable a:hover span.hover {
+  display: block;
+}
