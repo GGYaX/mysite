@@ -36,9 +36,9 @@
                 </a>
                 <ul class="dropdown-menu">
                   <!-- dropdown menu links -->
-                  <li><a href="#">Français</a></li>
-                  <li><a href="zh/portfolio.html">简体中文</a></li>
-                  <li><a href="en/portfolio.html">English</a></li>
+                  <li><a href="#">简体中文</a></li>
+                  <li><a href="../portfolio.html">Français</a></li>
+                  <li><a href="../en/portfolio.html">English</a></li>
                 </ul>
               </div>
             </li>
@@ -47,40 +47,46 @@
             <div class="navbar-inner">
               <div class="container">
                 <ul class="nav">
-                  <li><a href="index.html">Home</a></li>
+                  <li><a href="index.html">主页</a></li>
                   <li class="disabled active"><a>Portfolio</a></li>
                   <li class="disabled hoverable"><a>
-                    <span class="normal">Blog</span>
-                    <span class="hover">Comming soon ;)</span></a></li>
-                    <li><a href="mailto:yanxin.gong22@gmail.com">Contact</a></li>
-                  </ul>
-                </div>
+                    <span class="normal">博客</span>
+                    <span class="hover">Comming soon ;)</span></a>
+                  </li>
+                  <li class="mailcontact hoverable">
+                    <a href="mailto:yanxin.gong22@gmail.com">
+                      <span class="normal">联系我</span>
+                      <span class="hover">发给 yanxin.gong22@gmail.com</span>
+                    </a>
+                  </li>
+                </ul>
               </div>
-            </div><!-- /.navbar -->
-          </div>
-
-          <!-- Jumbotron -->
-          <div class="jumbotron">
-            <!-- BEGIN Timeline Embed -->
-            <div id="timeline-embed"></div>
-            <script type="text/javascript">
-            var timeline_config = {
-             width: "100%",
-             height: 600,
-             source: '../portfolio/src/model_cn.json',
-             lang: 'cn'
-           }
-           </script>
-           <script type="text/javascript" src="./js/storyjs-embed.js"></script>
-           <!-- END Timeline Embed-->
-         </div>
-
-         <hr>
-         <div class="footer">
-          <p>&copy; GGYaX</p>
+            </div>
+          </div><!-- /.navbar -->
         </div>
 
-      </div> <!-- /container -->
+        <!-- Jumbotron -->
+        <div class="jumbotron">
+          <!-- BEGIN Timeline Embed -->
+          <div id="timeline-embed"></div>
+          <script type="text/javascript">
+          var timeline_config = {
+           width: "100%",
+           height: 600,
+           source: '../portfolio/src/model_cn.json',
+           lang: 'zh-cn'
+         }
+         </script>
+         <script type="text/javascript" src="../js/storyjs-embed.js"></script>
+         <!-- END Timeline Embed-->
+       </div>
 
-    </body>
-    </html>
+       <hr>
+       <div class="footer">
+        <p>&copy; GGYaX</p>
+      </div>
+
+    </div> <!-- /container -->
+
+  </body>
+  </html>

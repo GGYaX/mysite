@@ -1,51 +1,51 @@
 {
 	"timeline":
 	{
-		"headline":"Tiens! Mon portfolio",
+		"headline":"Hi，这是我的portfolio",
 		"type":"default",
-		"text":"<p>Bienvenu sur mon portfolio :)</p>",
+		"text":"<p>欢迎来到我的timeline</p>",
 		"startDate":"2012,09,15",
 		"asset": {
 			"media":"http://www.simpsonschannel.com/screenshots/Simpsons-Sofa.jpg",
 			"credit":"Simpsons credit",
-			"caption":"Simpsons!!"
+			"caption":"Simpsons一家!!"
 		},
 		"date": [
 			{
 				"startDate":"2009,07,31",
 				"endDate":"2009,07,31",
-				"headline":"Mon premier jour en france",
-				"text":"<p>Aujourd'hui, c'est mon premier jour à ce nouveau pays</p>",
-				"tag":"Mon premier jour en france",
+				"headline":"我到法国的第一天",
+				"text":"<p>这是我来法国，也是我出国的第一天</p>",
+				"tag":"First day in 法兰西",
 				"asset": {
 					"media":"http://mw2.google.com/mw-panoramio/photos/medium/60487001.jpg",
-					"credit":"Tour eiffel"
+					"credit":"巴黎铁塔"
 				}
 			},
 			{
 				"startDate":"2009,08,01",
 				"endDate":"2011,06,20",
-				"headline":"Cycle préparaoire à l'ESIGELEC",
-				"text":"<p>Pendant deux ans, Je faisais mes etudes à l'ESIGELEC et je faisaits aussi partir à l'association des étudiants chinois à rouen. J'avais organisé des activités qui etaients pas mal.</p>",
+				"headline":"ESIGELEC的预科之旅",
+				"text":"<p>两年期间，我在ESIGELECT(鲁昂高等电力工程师学院)读预科，同时也在鲁昂学联负责了一些活动安排，春节联欢会，中秋节等。</p>",
 				"tag":"ESIGELEC"
 			},
 			{
 				"startDate":"2010,02,01",
 				"endDate":"2009,05,01",
-				"headline":"Mon premier programme en C",
-				"text":"<p>Il s'agit un jeu labyrinthe tout simple, sans interface graphique mais qui a plusieurs niveaux de difficulté et plusieurs chemins possible a sortir. Même si c'était un programme simple, cela m'avait fait découvrir l'informatique</p>",
-				"tag":"Premier programme",
+				"headline":"我第一个C程序",
+				"text":"<p>这是我第一个完整的C语言程序：一个有着简单图形界面的，多难度，多路径的迷宫游戏。虽然这个非常简单，但却让我发现了计算机语言的乐趣，我开始喜欢上了programming。值得骄傲的是，这个程序用了一个区别与网上普通迷宫的算法，使得有多路径且从终点出发不一定能找到最优路径。</p>",
+				"tag":"第一个程序",
 				"asset": {
 					"media":"images/labyrinthe.png",
-					"credit":"Jeu labyrinthe & algorithme"
+					"credit":"迷宫游戏 & 算法"
 				}
 			},
 			{
 				"startDate":"2011,09,10",
 				"endDate":"2014,09,10",
-				"headline":"Génie informatique à l'UTC",
-				"text":"<p>Je commence mon parcour educatif d'ingénieur en informatique à l'<a href=\"http://www.utc.fr\">Université de Technologie de Compiègne</a>. Je suis en filière <a href=\"http://www.utc.fr/inscriptions_gi/filieres.htm\">SRI</a>(Système et Réseaux Informatique), un domain qui me passionne.</p>",
-				"tag":"UTC en Infomatique"
+				"headline":"UTC(贡比涅技术大学)计算机专业",
+				"text":"<p>UTC是法国post-bac工程师排名第一的学校。Je commence mon parcour educatif d'ingénieur en informatique à l'<a href=\"http://www.utc.fr\">Université de Technologie de Compiègne</a>. Je suis en filière <a href=\"http://www.utc.fr/inscriptions_gi/filieres.htm\">SRI</a>(Système et Réseaux Informatique), un domain qui me passionne.</p>",
+				"tag":"UTC之路"
 			},
 			{
 				"startDate":"2011,10,23",
