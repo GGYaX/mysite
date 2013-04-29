@@ -1,0 +1,92 @@
+{
+	"timeline":
+	{
+		"headline":"Tiens! Mon portfolio",
+		"type":"default",
+		"text":"<p>Bienvenu sur mon portfolio :)</p>",
+		"startDate":"2012,09,15",
+		"asset": {
+			"media":"http://www.simpsonschannel.com/screenshots/Simpsons-Sofa.jpg",
+			"credit":"Simpsons credit",
+			"caption":"Simpsons!!"
+		},
+		"date": [
+			{
+				"startDate":"2009,07,31",
+				"endDate":"2009,07,31",
+				"headline":"Mon premier jour en france",
+				"text":"<p>Aujourd'hui, c'est mon premier jour à ce nouveau pays</p>",
+				"tag":"Mon premier jour en france",
+				"asset": {
+					"media":"http://mw2.google.com/mw-panoramio/photos/medium/60487001.jpg",
+					"credit":"Tour eiffel"
+				}
+			},
+			{
+				"startDate":"2009,08,01",
+				"endDate":"2011,06,20",
+				"headline":"Cycle préparaoire à l'ESIGELEC",
+				"text":"<p>Pendant deux ans, Je faisais mes etudes à l'ESIGELEC et je faisaits aussi partir à l'association des étudiants chinois à rouen. J'avais organisé des activités qui etaients pas mal.</p>",
+				"tag":"ESIGELEC"
+			},
+			{
+				"startDate":"2010,02,01",
+				"endDate":"2009,05,01",
+				"headline":"Mon premier programme en C",
+				"text":"<p>Il s'agit un jeu labyrinthe tout simple, sans interface graphique mais qui a plusieurs niveaux de difficulté et plusieurs chemins possible a sortir. Même si c'était un programme simple, cela m'avait fait découvrir l'informatique</p>",
+				"tag":"Premier programme",
+				"asset": {
+					"media":"images/labyrinthe.png",
+					"credit":"Jeu labyrinthe & algorithme"
+				}
+			},
+			{
+				"startDate":"2011,09,10",
+				"endDate":"2014,09,10",
+				"headline":"Génie informatique à l'UTC",
+				"text":"<p>Je commence mon parcour educatif d'ingénieur en informatique à l'<a href=\"http://www.utc.fr\">Université de Technologie de Compiègne</a>. Je suis en filière <a href=\"http://www.utc.fr/inscriptions_gi/filieres.htm\">SRI</a>(Système et Réseaux Informatique), un domain qui me passionne.</p>",
+				"tag":"UTC en Infomatique"
+			},
+			{
+				"startDate":"2011,10,23",
+				"endDate":"2011,10,28",
+				"headline":"ITU interprétateur à Genève",
+				"text":"<p>C'était une expérience extraordinaire. Je travaillais avec DADI TELECOM, un jeune fabriquant des équipements télécommunication comme un interprétateur français-anglais-chinois.</p>",
+				"tag":"ITU support",
+				"asset": {
+					"media":"http://www.itu.int/PublishingImages/masterpage/logos/itu-logo.png",
+					"credit":"International Telecommunication Union"
+				}
+			},
+			{
+				"startDate":"2012,03,01",
+				"endDate":"2012,05,30",
+				"headline":"Premier site web pour une UV de l'école",
+				"text":"<p>J'ai travaillé avec des potes à l'école sur la création du site web pour un professeur de l'école. Référence : <a href=\"http://www4.utc.fr/~td51/\">TD51</a>.</p>",
+				"tag":"Site TD51",
+				"asset": {
+					"media":"images/td51.min.png",
+					"credit":"La page d'acceuil du site TD51"
+				}
+			},
+			{
+				"startDate":"2012,03,30",
+				"endDate":"2012,05,30",
+				"headline":"Projet base de données",
+				"text":"<p>J'ai decouvert une base de données orienté relation PostgreSQL et un language puissant PHP</p>",
+				"tag":"PostgreSQL PHP",
+				"asset": {
+					"media":"images/phppostgresql.min.jpg",
+					"credit":"PostgreSQL et PHP"
+				}
+			},
+			{
+				"startDate":"2012,09,15",
+				"endDate":"2013,02,15",
+				"headline":"Stage BIG DATA et cloud computing",
+				"text":"<p>Développeur BIG DATA et cloud computing chez <a href=\"http://blog.sambervalley.com\">SamberValley</a>.<ul class=\"nav nav-tabs nav-stacked\"><li>-> Codage d'un serveur statistique en NodeJS avec Query-language de <strong>MongoDB</strong>, un publish-subscibe système à <strong>temps réel</strong>.</li><li>-> <strong>Amélioration de la performance</strong> de calcule : streaming, bon choix de l'index, fragmentation des tables</li><li>-> BIG DATA traité avec <strong>mapreduce</strong>.</li></ul></p>",
+				"tag":"cloud computing"
+			}
+		]
+	}
+}
