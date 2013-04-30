@@ -36,7 +36,7 @@
 				"text":"<p>这是我第一个完整的C语言程序：一个有着简单图形界面的，多难度，多路径的迷宫游戏。虽然这个非常简单，但却让我发现了计算机语言的乐趣，我开始喜欢上了programming。值得骄傲的是，这个程序用了一个区别与网上普通迷宫的算法，使得有多路径且从终点出发不一定能找到最优路径。</p>",
 				"tag":"第一个程序",
 				"asset": {
-					"media":"images/labyrinthe.png",
+					"media":"../images/labyrinthe.png",
 					"credit":"迷宫游戏 & 算法"
 				}
 			},
@@ -44,48 +44,48 @@
 				"startDate":"2011,09,10",
 				"endDate":"2014,09,10",
 				"headline":"UTC(贡比涅技术大学)计算机专业",
-				"text":"<p>UTC是法国post-bac工程师排名第一的学校。Je commence mon parcour educatif d'ingénieur en informatique à l'<a href=\"http://www.utc.fr\">Université de Technologie de Compiègne</a>. Je suis en filière <a href=\"http://www.utc.fr/inscriptions_gi/filieres.htm\">SRI</a>(Système et Réseaux Informatique), un domain qui me passionne.</p>",
+				"text":"<p><a href=\"http://www.utc.fr\">UTC</a>是法国post-bac工程师排名第一的学校。我现在在读<a href=\"http://www.utc.fr/inscriptions_gi/filieres.htm\">计算机网络与系统专业</a>，平时在学校做一些课上的Projet，课后做一些自己喜好的编程，更新一下自己的网站。</p>",
 				"tag":"UTC之路"
 			},
 			{
 				"startDate":"2011,10,23",
 				"endDate":"2011,10,28",
-				"headline":"ITU interprétateur à Genève",
-				"text":"<p>C'était une expérience extraordinaire. Je travaillais avec DADI TELECOM, un jeune fabriquant des équipements télécommunication comme un interprétateur français-anglais-chinois.</p>",
+				"headline":"ITU interprétateur à Genève ITU 2011年瑞士展会翻译",
+				"text":"<p>这是一个难忘的经历，算是我人生第一次正式的工作经历。当时是与国内的一个通信测试仪器制造商合作(DADI TELECOM)，有幸参加ITU国际电信联盟会展。5天全职英法口译，让我学到了不少东西</p>",
 				"tag":"ITU support",
 				"asset": {
-					"media":"http://www.itu.int/PublishingImages/masterpage/logos/itu-logo.png",
+					"media":"../images/itu_logo.jpg",
 					"credit":"International Telecommunication Union"
 				}
 			},
 			{
 				"startDate":"2012,03,01",
 				"endDate":"2012,05,30",
-				"headline":"Premier site web pour une UV de l'école",
-				"text":"<p>J'ai travaillé avec des potes à l'école sur la création du site web pour un professeur de l'école. Référence : <a href=\"http://www4.utc.fr/~td51/\">TD51</a>.</p>",
-				"tag":"Site TD51",
+				"headline":"第一个静态网页",
+				"text":"<p>跟学校里的同学一起为学校一门课程做了一个介绍性的静态网站。 Reference : <a href=\"http://www4.utc.fr/~td51/\">TD51</a>.</p>",
+				"tag":"TD51 网站",
 				"asset": {
-					"media":"images/td51.min.png",
+					"media":"../images/td51.min.png",
 					"credit":"La page d'acceuil du site TD51"
 				}
 			},
 			{
 				"startDate":"2012,03,30",
 				"endDate":"2012,05,30",
-				"headline":"Projet base de données",
-				"text":"<p>J'ai decouvert une base de données orienté relation PostgreSQL et un language puissant PHP</p>",
+				"headline":"PostgreSQL数据库",
+				"text":"<p>PHP 与 PostgreSQL初认识</p>",
 				"tag":"PostgreSQL PHP",
 				"asset": {
-					"media":"images/phppostgresql.min.jpg",
-					"credit":"PostgreSQL et PHP"
+					"media":"../images/phppostgresql.min.jpg",
+					"credit":"PostgreSQL & PHP"
 				}
 			},
 			{
 				"startDate":"2012,09,15",
 				"endDate":"2013,02,15",
-				"headline":"Stage BIG DATA et cloud computing",
-				"text":"<p>Développeur BIG DATA et cloud computing chez <a href=\"http://blog.sambervalley.com\">SamberValley</a>.<ul class=\"nav nav-tabs nav-stacked\"><li>-> Codage d'un serveur statistique en NodeJS avec Query-language de <strong>MongoDB</strong>, un publish-subscibe système à <strong>temps réel</strong>.</li><li>-> <strong>Amélioration de la performance</strong> de calcule : streaming, bon choix de l'index, fragmentation des tables</li><li>-> BIG DATA traité avec <strong>mapreduce</strong>.</li></ul></p>",
-				"tag":"cloud computing"
+				"headline":"大数据与云计算实习",
+				"text":"<p>在法国一家startup公司 <a href=\"http://blog.sambervalley.com\">SamberValley</a> 做大数据与云计算的开发者。期间完成了一下几点工作：<ul><li><span class=\"badge badge-success\">1</span> NodeJS 数据统计服务器，使用 <strong>MongoDB</strong> 的查询语句。该服务器用于一个 pubish-subscribe 系统的<strong>实时</strong>统计。</li><li><span class=\"badge badge-success\">2</span> 数据库层面的数据统计<strong>性能优化</strong> : streaming, 最优索引, 数据库的sharding system & cluster。</li><li><span class=\"badge badge-success\">4</span> BIG DATA 使用 <strong>mapreduce</strong>。</li><li><span class=\"badge badge-success\">5</span> 虚拟化技术初开始。</li><li><span class=\"badge badge-success\">6</span> <strong>websocket</strong>协议下的消息系统服务器。使用 <a href=\"http://socket.io\">socket.io</a>。<span class=\"badge\">1</span></li></ul></p>",
+				"tag":"云计算"
 			}
 		]
 	}
