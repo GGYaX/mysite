@@ -84,7 +84,7 @@
 				"startDate":"2012,09,15",
 				"endDate":"2013,02,15",
 				"headline":"大数据与云计算实习",
-				"text":"<p>在法国一家startup公司 <a href=\"http://blog.sambervalley.com\">SamberValley</a> 做大数据与云计算的开发者。期间完成了一下几点工作：<ul><li><span class=\"badge badge-success\">1</span> NodeJS 数据统计服务器，使用 <strong>MongoDB</strong> 的查询语句。该服务器用于一个 pubish-subscribe 系统的<strong>实时</strong>统计。</li><li><span class=\"badge badge-success\">2</span> 数据库层面的数据统计<strong>性能优化</strong> : streaming, 最优索引, 数据库的sharding system & cluster。</li><li><span class=\"badge badge-success\">4</span> BIG DATA 使用 <strong>mapreduce</strong>。</li><li><span class=\"badge badge-success\">5</span> 虚拟化技术初开始。</li><li><span class=\"badge badge-success\">6</span> <strong>websocket</strong>协议下的消息系统服务器。使用 <a href=\"http://socket.io\">socket.io</a>。</li></ul></p>",
+				"text":"<p>在法国一家startup公司 <a href=\"http://blog.sambervalley.com\">SamberValley</a> 做大数据与云计算的开发者。期间完成了一下几点工作：</p><ul><li><span class=\"badge badge-success\">1</span> NodeJS 数据统计服务器，使用 <strong>MongoDB</strong> 的查询语句。该服务器用于一个 pubish-subscribe 系统的<strong>实时</strong>统计。</li><li><span class=\"badge badge-success\">2</span> 数据库层面的数据统计<strong>性能优化</strong> : streaming, 最优索引, 数据库的sharding system & cluster。</li><li><span class=\"badge badge-success\">4</span> BIG DATA 使用 <strong>mapreduce</strong>。</li><li><span class=\"badge badge-success\">5</span> 虚拟化技术初开始。</li><li><span class=\"badge badge-success\">6</span> <strong>websocket</strong>协议下的消息系统服务器。使用 <a href=\"http://socket.io\">socket.io</a>。</li></ul>",
 				"tag":"云计算"
 			}
 		]
