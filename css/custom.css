@@ -118,4 +118,13 @@ body {
   margin: auto;
   text-align: center;
 }
-/* Timeline customize */
+
+/* No effet for a href */
+a.noeffet, a.noeffet:hover, a.noeffet:visited, a.noeffet:active{
+  text-decoration: none;
+  color: rgb(153, 153, 153);
+}
+
+h1.muted {
+
+}
