@@ -86,6 +86,47 @@
 				"headline":"Stage BIG DATA et cloud computing",
 				"text":"<p>Développeur BIG DATA et cloud computing chez <a href=\"http://blog.sambervalley.com\">SamberValley</a>.<ul class=\"nav nav-tabs nav-stacked\"><li>-> Codage d'un serveur statistique en NodeJS avec Query-language de <strong>MongoDB</strong>, un publish-subscibe système à <strong>temps réel</strong>.</li><li>-> <strong>Amélioration de la performance</strong> de calcule : streaming, bon choix de l'index, fragmentation des tables</li><li>-> BIG DATA traité avec <strong>mapreduce</strong>.</li></ul></p>",
 				"tag":"cloud computing"
+			},
+			{
+				"startDate":"2013,03,01",
+				"endDate":"2013,06,15",
+				"headline":"Projet traitement de données expérimentales en temps réel",
+				"text":"<p>Réalisation d’un système pour analyser qualitativement des données du rayonnement avec la possibilité d’informer des erreurs des données.</p><p><li>-> Design et programmation des différentes couches du système qui réalisent les táches séparément et se coopèrent entre elles.</li><li>-> Implémentation d’un système surveillance pour détecter des erreurs des données.</li></p>",
+				"tag":"NodeJS",
+				"asset": {
+					"credit":"NodeJS en temps réel"
+				}
+			},
+			{
+				"startDate":"2013,07,01",
+				"endDate":"2013,08,15",
+				"headline":"Spider d’un site web SNS : WeiboFetcher",
+				"text":"<p>Développement d’un script pour apporter le weibo (twitter chinois) d’un user id donné, y compris les photos, les textes, le nombre de likes, le nombre de forwards, tous les commentaires, les users étant @ dans ce weibo.</p>",
+				"tag":"CasperJS et PhantomJS",
+				"asset": {
+					"credit":"NodeJS en temps réel"
+				}
+			},
+			{
+				"startDate":"2013,04,29",
+				"endDate":"2013,06,10",
+				"headline":"Formation en ligne de MongoDB DBA",
+				"text":"<p>J'ai réusit mon premier <a href=\"http://education.10gen.com/downloads/certificates/b205d59b42754ead87e99667973d51ae/Certificate.pdf\">certificat</a> professionnel. Les cours données sont sur la base de MongoDB (grammaire, JSON, Mongo shell, manipulation des opérateurs), le déploiement de clusting/sharding/replicat, l'indexation, la surveillance et le reporting de performance.</p>",
+				"tag":"MongoDB DBA",
+				"asset": {
+					"media":"images/mongodb-logo.png",
+					"credit":"MongoDB DBA"
+				}
+			},
+			{
+				"startDate":"2013,07,29",
+				"endDate":"2013,08,15",
+				"headline":"Formation Oracle OCP",
+				"text":"<p>Je m'intéresse à la BDD Oracle pour une raison simple, je veux voir comment Oracle marche et pour quelles raisons il dévient une des BDD les plus utilisées dans les grandes entreprises. La formation était sur l'administration d'Oracle, compréhension de la structure d'Oracle (instance, base de donnée, process), le déploiement de RAC, le reporting de performance AWR.</p>",
+				"tag":"Oracle DBA",
+				"asset": {
+					"credit":"Oracle DBA"
+				}
 			}
 		]
 	}
